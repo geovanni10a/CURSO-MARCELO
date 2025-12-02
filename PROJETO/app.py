@@ -28,7 +28,8 @@ fig = px.scatter_mapbox(
     title=f'focos de incêndio no Amapá ({dados})'
     )
 
-st.plotly_chart(fig, )
+st.plotly_chart(fig)
+
 
 
 
