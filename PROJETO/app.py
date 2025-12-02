@@ -30,3 +30,4 @@ fig = px.scatter_mapbox(
 
 st.plotly_chart(fig, )
 
+
